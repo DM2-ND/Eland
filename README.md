@@ -4,7 +4,7 @@ This repository contains the source code for the CIKM'2021 paper:
 
 [Action Sequence Augmentation for Early Graph-based Anomaly Detection](https://arxiv.org/pdf/2010.10016.pdf)
 
-by [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), [Bo Ni](https://arstanley.github.io/),  [Wenhao Yu](https://wyu97.github.io/), [Zhichun Guo](), [Neil Shah](http://nshah.net/), and [Meng Jiang](http://www.meng-jiang.com/).
+by [Tong Zhao*](https://tzhao.io/) (tzhao2@nd.edu), [Bo Ni*](https://arstanley.github.io/) (bni@nd.edu),  [Wenhao Yu](https://wyu97.github.io/), [Zhichun Guo](), [Neil Shah](http://nshah.net/), and [Meng Jiang](http://www.meng-jiang.com/).
 
 ## Requirements
 
